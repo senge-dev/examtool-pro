@@ -1,7 +1,11 @@
 # ExamTool Pro使用技巧
-## 从github克隆插件
+## 克隆该应用程序
 ```bash
 git clone https://github.com/senge-studio/examtool-pro.git
+```
+如果打不开GitHub,请使用此地址
+```bash
+git clone https://gitee.com/senge-studio/examtool-pro.git
 ```
 ## 安装扩展
 - wxpython python图形化扩展
